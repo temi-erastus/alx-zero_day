@@ -1,1 +1,1 @@
-My first readme
+zero_day git course
